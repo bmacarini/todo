@@ -1,8 +1,8 @@
-# todo
-
 ![Gif mostrando as funcionalidades do aplicativo todo](todo.gif)
 
-:iphone: Application to create to-do list. Project developed in the 1st challenge of [Rocketseat](https://https://rocketseat.com.br/)'s React Native trail.
+Application to create to-do list. Project developed in the 1st challenge of [Rocketseat](https://https://rocketseat.com.br/)'s React Native trail.
+
+---
 
 **Functionalities:**
 
@@ -11,9 +11,13 @@
 - Count of tasks created and completed
 - Tasks delete function
 
+---
+
 **Technologies:**
 - Typescript
 - Javascript
 - CSS
+
+---
 
 :heavy_check_mark: Project completed
