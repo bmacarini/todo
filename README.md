@@ -1,4 +1,4 @@
-<center>![Gif mostrando as funcionalidades do aplicativo todo](todo.gif)</center>
+![Gif mostrando as funcionalidades do aplicativo todo](todo.gif)
 
 Application to create to-do list. Project developed in the 1st challenge of [Rocketseat](https://https://rocketseat.com.br/)'s React Native trail.
 
